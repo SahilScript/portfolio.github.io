@@ -100,7 +100,7 @@ ul li a:hover{
 
 .image img{
     position: absolute;
-    height: 140%;
+    height: 120%;
     left: 40%;
     transform: translate(-55%);
     bottom: 0;
@@ -108,7 +108,7 @@ ul li a:hover{
 }
 
 .image:hover .girl{
-    left: 55%;
+    left: 60%;
 }
 
 .icons a{
